@@ -14,7 +14,7 @@ This project is a Multimodal AI Video Assistant built with Streamlit, Phidata, a
 
 📃 User-Friendly Interface: Simple UI built with Streamlit.
 
-##📝 Requirements
+## 📝 Requirements
 
 - Python 3.x
 
@@ -119,6 +119,8 @@ Phidata
 Google Generative AI
 
 DuckDuckGo API
+
+----------------------------------------------------------
 
 Developed by Muhammad Zohaib
 
