@@ -1,10 +1,10 @@
-AI Video Assistant with Phidata and Gemini 2.0
+# AI Video Assistant with Phidata and Gemini 2.0
 
-📊 Overview
+## 📊 Overview
 
 This project is a Multimodal AI Video Assistant built with Streamlit, Phidata, and Gemini 2.0 Flash Exp. The AI agent analyzes uploaded video files and provides detailed insights based on user queries, leveraging web search tools for supplementary information.
 
-🛠️ Features
+##🛠️ Features
 
 🎥 Video Upload & Playback: Upload .mp4, .mov, or .avi files and preview them.
 
@@ -14,21 +14,21 @@ This project is a Multimodal AI Video Assistant built with Streamlit, Phidata, a
 
 📃 User-Friendly Interface: Simple UI built with Streamlit.
 
-📝 Requirements
+##📝 Requirements
 
-Python 3.x
+- Python 3.x
 
-Streamlit
+- Streamlit
 
-Phidata
+- Phidata
 
-Google Generative AI (google.generativeai)
+- Google Generative AI (google.generativeai)
 
-DuckDuckGo Tool
+- DuckDuckGo Tool
 
-dotenv
+- dotenv
 
-📁 Project Structure
+## 📁 Project Structure
 
 AI-Video-Assistant-Phidata/
 ├── env/                   # Virtual environment
@@ -38,7 +38,7 @@ AI-Video-Assistant-Phidata/
 ├── .env                 # API keys configuration
 └── README.md             # Project documentation
 
-🛠️ Setup Instructions
+## 🛠️ Setup Instructions
 
 1. Clone the Repository
 
@@ -80,7 +80,7 @@ $env:GOOGLE_API_KEY="your_google_api_key_here"  # PowerShell
 
 python app.py
 
-🔄 Workflow
+## 🔄 Workflow
 
 Upload a video file.
 
@@ -90,19 +90,17 @@ Click Analyze Video.
 
 View AI-generated insights and analysis.
 
-📅 Future Improvements
+## 📅 Future Improvements
 
 Support for more video formats.
 
 Summarization of long videos.
 
-Audio transcription and analysis.
-
-👀 Demo
+## 👀 Demo
 
 Coming soon...
 
-💪 Contributing
+## 💪 Contributing
 
 Fork the repository.
 
@@ -114,17 +112,13 @@ Push to the branch: git push origin feature-name.
 
 Open a pull request.
 
-💎 Acknowledgements
+## 💎 Acknowledgements
 
 Phidata
 
 Google Generative AI
 
 DuckDuckGo API
-
-📁 License
-
-This project is licensed under the MIT License.
 
 Developed by Muhammad Zohaib
 
