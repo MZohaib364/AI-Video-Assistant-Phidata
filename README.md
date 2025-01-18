@@ -118,6 +118,6 @@ DuckDuckGo API
 
 ----------------------------------------------------------
 
-Developed by Muhammad Zohaib
+**Developed by Muhammad Zohaib**  
+[LinkedIn](https://www.linkedin.com/in/muhammad-zohaib-a1b027280/) | [GitHub](https://github.com/MZohaib364)
 
-LinkedIn | GitHub
