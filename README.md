@@ -2,9 +2,9 @@
 
 ## 📊 Overview
 
-This project is a Multimodal AI Video Assistant built with Streamlit, Phidata, and Gemini 2.0 Flash Exp. The AI agent analyzes uploaded video files and provides detailed insights based on user queries, leveraging web search tools for supplementary information.
+This project is a Multimodal AI Video Assistant built with Phidata, Gemini 2.0 Flash Exp, and Streamlit. The AI agent analyzes uploaded video files and provides detailed insights based on user queries, leveraging web search tools for supplementary information.
 
-##🛠️ Features
+## 🛠️ Features
 
 🎥 Video Upload & Playback: Upload .mp4, .mov, or .avi files and preview them.
 
@@ -95,10 +95,6 @@ View AI-generated insights and analysis.
 Support for more video formats.
 
 Summarization of long videos.
-
-## 👀 Demo
-
-Coming soon...
 
 ## 💪 Contributing
 
