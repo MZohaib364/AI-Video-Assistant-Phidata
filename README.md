@@ -6,13 +6,15 @@ This project is a Multimodal AI Video Assistant built with Phidata, Gemini 2.0 F
 
 ## 🛠️ Features
 
-🎥 Video Upload & Playback: Upload .mp4, .mov, or .avi files and preview them.
+- **🎥 Video Upload & Playback**: Upload `.mp4`, `.mov`, or `.avi` files and preview them.
 
-🧰 AI-Powered Analysis: Analyze video content based on user-provided queries.
+- **🔗 YouTube Link Analysis**: Enter a YouTube video URL for analysis.
 
-🔍 Web Research Integration: Uses DuckDuckGo to enrich video insights.
+- **🧰 AI-Powered Analysis**: Analyze video content based on user-provided queries.
 
-📃 User-Friendly Interface: Simple UI built with Streamlit.
+- **🔍 Web Research Integration**: Uses DuckDuckGo to enrich video insights.
+
+- **📃 User-Friendly Interface**: Simple UI built with Streamlit.
 
 ## 📝 Requirements
 
@@ -82,19 +84,15 @@ python app.py
 
 ## 🔄 Workflow
 
-Upload a Video or Enter a YouTube Link:
+1. **Upload a Video or Enter a YouTube Link**:
+   - **Upload**: Use the file uploader to select a video file.
+   - **YouTube Link**: Enter the URL of the YouTube video.
 
-  Upload: Use the file uploader to select a video file.
+2. **Enter a Query**: Provide a question or insight you're seeking about the video content.
 
-  YouTube Link: Enter the URL of the YouTube video.
+3. **Analyze**: Click the "Analyze Video" button.
 
-Enter a Query: Provide a question or insight you're seeking about the video content.
-
-Analyze: Click the "Analyze Video" button.
-
-View Results: The AI-generated insights and analysis will be displayed.
-
-View AI-generated insights and analysis.
+4. **View Results**: The AI-generated insights and analysis will be displayed.
 
 ## 📅 Future Improvements
 
