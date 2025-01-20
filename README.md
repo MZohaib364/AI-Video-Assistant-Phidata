@@ -82,11 +82,17 @@ python app.py
 
 ## 🔄 Workflow
 
-Upload a video file.
+Upload a Video or Enter a YouTube Link:
 
-Enter a query related to the video content.
+  Upload: Use the file uploader to select a video file.
 
-Click Analyze Video.
+  YouTube Link: Enter the URL of the YouTube video.
+
+Enter a Query: Provide a question or insight you're seeking about the video content.
+
+Analyze: Click the "Analyze Video" button.
+
+View Results: The AI-generated insights and analysis will be displayed.
 
 View AI-generated insights and analysis.
 
