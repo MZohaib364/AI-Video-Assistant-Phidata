@@ -54,7 +54,7 @@ def initialize_agent():
         markdown =True
     )
 
-# Initialize the agent
+# Initialize the agents as a multiagent
 Multimodal_Agent = initialize_agent()
 
 # Input for YouTube video URL
